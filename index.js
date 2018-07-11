@@ -1,4 +1,4 @@
 // write your code below!
 Function happyHolidays(String) {
-  return 
+  return console.log("Happy holidays!")
 }
