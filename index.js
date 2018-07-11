@@ -4,6 +4,7 @@ function happyHolidays(string) {
 }
 
 
-function happyHolidaysTo(nice) {
+
+function happyHolidaysTo(string) {
   return "Happy holidays, ${name}!"
 }
